@@ -1,0 +1,17 @@
+lambdau1=2.8			# cm
+lambdau2=1.4			# cm
+B1=0.833e4			#Tesla	3.8330e3_8
+B2=0.483e4 				#Tesla
+lambdar=523.9e-7                   # cm
+I=100  ;      			# current (A)
+IA=17.0e3;      			# A
+e=4.8e-10    			#c
+gamma0=300#177.45097351074219    	#----
+C=3.0e10				# m/s
+m_e=9.1e-28 			#g
+r=0.0150;     			# cm
+ne=1000  				# Number of particles (Also in one subroutine)
+Nu=2000/3.3;
+ll=1#3.0e15_8
+amp_to_statamp=3.0e9     # amp_to_statamp
+h_max=3
